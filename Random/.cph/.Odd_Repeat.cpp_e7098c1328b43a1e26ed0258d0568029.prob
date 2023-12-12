@@ -1,0 +1,1 @@
+{"name":"Local: Odd_Repeat","url":"c:\\Users\\krish\\OneDrive\\Desktop\\Codechef\\Random\\Odd_Repeat.cpp","tests":[{"id":1690030327021,"input":"1\n3 4\n1 3 4 5\n7 2 3 4\n1 3 2 1","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\krish\\OneDrive\\Desktop\\Codechef\\Random\\Odd_Repeat.cpp","group":"local","local":true}
